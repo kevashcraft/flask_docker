@@ -1,0 +1,8 @@
+# Docker Compose Flask Server
+
+An example of how to use Docker Compose to run a simple Flask server
+
+# References
+
+[Docker Compose Getting Started](https://docs.docker.com/compose/gettingstarted/#step-1-setup)
+
